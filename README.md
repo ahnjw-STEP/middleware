@@ -1,2 +1,2 @@
-# middleware
-Source codes for STEP E-learning course on Middleware for Industrial Electronic Devices
+# [STEP] 산업용 전자기기 미들웨버 개발교육
+본 강좌의 회차별 소스코드입니다.
